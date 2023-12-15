@@ -18,11 +18,11 @@ The program scans a log file for failed login attempts and identifies potential 
 1. Open a terminal and navigate to the project directory.
 2. Modify the `sample_log.txt` file or provide your log file with the relevant data.
 3. Run the program using the following command:
-   ```bash
-   go run main.go
 
+```bash
+go run main.go
+```
 
-```markdown
 # Intrusion Detection Program
 
 This Go program analyzes log files for potential intrusions based on failed login attempts within a specified time window.
@@ -106,10 +106,8 @@ func main() {
 		fmt.Println("No intrusion detected.")
 	}
 }
-
 ```
 
-```markdown
 ### Prerequisites
 
 - Go programming language installed on your system.
@@ -117,20 +115,23 @@ func main() {
 ### Installation
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/intrusion-detection.git
-   ```
+
+    ```bash
+    git clone https://github.com/yourusername/intrusion-detection.git
+    ```
 
 2. Navigate to the project directory:
-   ```bash
-   cd intrusion-detection
-   ```
+
+    ```bash
+    cd intrusion-detection
+    ```
 
 3. Run the program:
-   ```bash
-   go run main.go
-   ```
-   This command executes the program with the default log file `sample_log.txt`.
+
+    ```bash
+    go run main.go
+    ```
+This command executes the program with the default log file `sample_log.txt`.
 
 ### Customization
 
