@@ -27,3 +27,4 @@ Thumbs.db        # Windows system file
 # Ignore compiled binaries or executables
 *.exe
 *.out
+*.main
