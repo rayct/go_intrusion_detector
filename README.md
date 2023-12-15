@@ -21,6 +21,86 @@ The program scans a log file for failed login attempts and identifies potential 
    ```bash
    go run main.go
 
+
+```markdown
+# Intrusion Detection Program
+
+This Go program analyzes log files for potential intrusions based on failed login attempts within a specified time window.
+
+## Overview
+
+The program `intrusion_detection.go` reads a log file (`sample_log.txt` by default) containing login attempts and identifies potential intrusions based on failed login attempts from the same IP address within a specified time window.
+
+## Usage
+
+```go
+package main
+
+import (
+	"bufio"
+	"fmt"
+	"os"
+	"strings"
+	"time"
+)
+
+// ... (Your Go code here)
+```
+
+```go
+// ... (Continuation of your Go code)
+```
+
+```markdown
+### Prerequisites
+
+- Go programming language installed on your system.
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/intrusion-detection.git
+   ```
+
+2. Navigate to the project directory:
+   ```bash
+   cd intrusion-detection
+   ```
+
+3. Run the program:
+   ```bash
+   go run intrusion_detection.go
+   ```
+   This command executes the program with the default log file `sample_log.txt`.
+
+### Customization
+
+- To use a different log file, modify the `logFile` variable in the `main()` function.
+- Adjust the `maxAttempts` and `timeWindow` parameters in the `detectIntrusion()` function to change the threshold for identifying intrusions.
+
+## File Structure
+
+- `intrusion_detection.go`: Contains the main program logic for intrusion detection.
+- `sample_log.txt`: Sample log file for demonstration purposes.
+
+## Sample Code Explanation
+
+The program consists of the following key functionalities:
+
+- **readLogFile**: Reads the contents of a log file into a slice of strings.
+- **detectIntrusion**: Analyzes log entries to detect potential intrusions based on failed login attempts within a specified time window.
+- **main**: Entry point of the program, reads the log file, and calls `detectIntrusion` to identify potential intrusions.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+This program is a simple illustration of log file analysis for intrusion detection using Go.
+```
+
 ---
 
 **Documentation By:** Raymond C. TURNER
