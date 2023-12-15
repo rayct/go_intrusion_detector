@@ -99,7 +99,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 This program is a simple illustration of log file analysis for intrusion detection using Go.
-```
 
 ---
 
