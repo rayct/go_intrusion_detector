@@ -1,0 +1,29 @@
+# Ignore system-specific files
+.DS_Store        # macOS system file
+Thumbs.db        # Windows system file
+
+# Ignore IDE or editor files
+.vscode/         # Visual Studio Code
+.idea/           # IntelliJ IDEA
+*.sublime-project
+*.sublime-workspace
+
+# Ignore dependencies
+/node_modules/
+/vendor/
+
+# Ignore build output
+/dist/
+/build/
+
+# Ignore environment-specific files
+.env
+.env.local
+.env.*.local
+
+# Ignore log files
+*.log
+
+# Ignore compiled binaries or executables
+*.exe
+*.out
