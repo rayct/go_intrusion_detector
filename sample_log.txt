@@ -1,5 +1,458 @@
-2023-07-19 12:34:56 192.168.0.101 failed login attempt
-2023-07-19 12:35:02 192.168.0.101 failed login attempt
-2023-07-19 12:36:45 192.168.0.102 failed login attempt
-2023-07-19 12:36:50 192.168.0.101 failed login attempt
-2023-07-19 12:37:10 192.168.0.101 failed login attempt
+Manufacturer:ALCL
+ProductClass:G-2425G-B
+SerialNumber:ALCLB27604BB
+HWVer:3FE48296BAAA
+SWVer:3FE49026IJJJ09
+IP:192.168.1.254
+
+[alert] <129>1 2023-12-08T20:57:43.223009+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-08T20:57:43.223153+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-08T20:57:44.088561+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-08T22:17:56.493564+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-08T22:17:56.493706+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-08T22:17:57.239761+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-08T23:31:29.396733+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-08T23:31:29.396873+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-08T23:31:30.178545+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-09T01:37:22.849386+00:00 AONT syslog 5398 - -  TR069: -1: Receive http message failed: Connection reset by peer 
+[alert] <129>1 2023-12-09T01:37:28.953594+00:00 AONT syslog 5398 - -  TR069: -1: Receive http message failed: Connection reset by peer 
+[alert] <129>1 2023-12-09T01:37:35.358002+00:00 AONT syslog 5398 - -  TR069: Authentication failed, last_fail_time=767387, fail attempt=2 
+[alert] <129>1 2023-12-09T01:37:40.585158+00:00 AONT syslog 5398 - -  TR069: -1: Receive http message failed: Connection reset by peer 
+[alert] <129>1 2023-12-09T02:35:57.852713+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-09T02:35:57.852856+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-09T02:35:58.743312+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-09T03:13:42.282945+00:00 AONT syslog 5398 - -  TR069: Authentication failed, last_fail_time=773154, fail attempt=2 
+[alert] <129>1 2023-12-09T04:24:51.104857+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-09T04:24:51.105003+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-09T04:24:51.898753+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-09T05:34:15.082841+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-09T05:34:15.083178+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-09T05:34:15.867320+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-09T06:22:56.024287+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-09T06:22:56.026470+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-09T06:22:56.788628+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-09T08:35:19.989067+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-09T08:35:19.989209+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-09T08:35:20.750588+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-09T09:41:05.791063+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-09T09:41:05.791208+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-09T09:41:06.600934+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-09T10:43:41.771187+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-09T10:43:41.771336+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-09T10:43:42.552870+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-09T12:00:00.703576+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-09T12:00:00.703724+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-09T12:00:01.618293+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-09T13:12:54.783530+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-09T13:12:54.783678+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-09T13:12:55.631749+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-09T14:05:43.789473+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-09T14:05:43.789606+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-09T14:05:44.533801+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-09T14:51:45.681030+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-09T14:51:45.681183+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-09T14:51:46.567696+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-09T15:39:52.711059+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-09T15:39:52.711207+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-09T15:39:53.461618+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-09T16:48:11.611089+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-09T16:48:11.611233+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-09T16:48:12.489498+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-09T17:49:50.653421+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-09T17:49:50.653579+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-09T17:49:51.443297+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-09T19:11:22.589227+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-09T19:11:22.589371+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-09T19:11:23.393167+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-09T20:54:54.371207+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-09T20:54:54.371351+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-09T20:54:55.171849+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-09T22:05:49.329649+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-09T22:05:49.329791+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-09T22:05:50.205448+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-09T22:55:43.361007+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-09T22:55:43.361148+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-09T22:55:44.291820+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-09T23:45:36.443636+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-09T23:45:36.443781+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-09T23:45:37.187267+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-10T00:49:21.343443+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-10T00:49:21.343593+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-10T00:49:22.123885+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-10T01:52:32.282740+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-10T01:52:32.285224+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-10T01:52:33.115375+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-10T02:53:06.261030+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-10T02:53:06.261174+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-10T02:53:07.028264+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-10T04:00:01.990788+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-10T04:00:01.990935+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-10T04:00:02.819077+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-10T05:17:34.961118+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-10T05:17:34.961269+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-10T05:17:35.863102+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-10T06:01:30.043568+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-10T06:01:30.043708+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-10T06:01:30.816547+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-10T06:54:54.975298+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-10T06:54:54.975437+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-10T06:54:55.758022+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-10T07:55:25.920821+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-10T07:55:25.920965+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-10T07:55:26.837313+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-10T08:48:44.648359+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-10T08:48:44.648490+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-10T08:48:45.482962+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-10T09:02:48.363134+00:00 AONT syslog 5398 - -  TR069: Authentication failed, last_fail_time=880498, fail attempt=2 
+[alert] <129>1 2023-12-10T10:05:04.368857+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-10T10:05:04.369003+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-10T10:05:05.199011+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-10T10:47:46.363671+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-10T10:47:46.363829+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-10T10:47:47.323577+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-10T11:41:21.471101+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-10T11:41:21.471245+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-10T11:41:22.241417+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-10T12:44:31.413584+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-10T12:44:31.413739+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-10T12:44:32.171730+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-10T13:47:39.319062+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-10T13:47:39.319206+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-10T13:47:40.133386+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-10T15:05:37.306183+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-10T15:05:37.307590+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-10T15:05:38.110210+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-10T16:10:09.269953+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-10T16:10:09.270090+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-10T16:10:10.009797+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-10T16:58:32.915899+00:00 AONT syslog 5398 - -  TR069: -1: Receive http message failed: Connection reset by peer 
+[alert] <129>1 2023-12-10T16:58:39.013033+00:00 AONT syslog 5398 - -  TR069: -1: Receive http message failed: Connection reset by peer 
+[alert] <129>1 2023-12-10T16:58:45.311413+00:00 AONT syslog 5398 - -  TR069: Authentication failed, last_fail_time=909055, fail attempt=2 
+[alert] <129>1 2023-12-10T16:58:50.506862+00:00 AONT syslog 5398 - -  TR069: -1: Receive http message failed: Connection reset by peer 
+[alert] <129>1 2023-12-10T18:43:47.990814+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-10T18:43:47.990957+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-10T18:43:48.868124+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-10T19:48:58.051556+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-10T19:48:58.051699+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-10T19:48:58.827958+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-10T20:45:20.981135+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-10T20:45:20.981278+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-10T20:45:21.818125+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-10T21:40:40.980816+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-10T21:40:40.980963+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-10T21:40:41.805314+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-10T22:14:35.301536+00:00 AONT syslog 5398 - -  TR069: -1: Receive http message failed: Connection reset by peer 
+[alert] <129>1 2023-12-10T22:14:41.323698+00:00 AONT syslog 5398 - -  TR069: -1: Receive http message failed: Connection reset by peer 
+[alert] <129>1 2023-12-10T22:14:47.397247+00:00 AONT syslog 5398 - -  TR069: Authentication failed, last_fail_time=928017, fail attempt=2 
+[alert] <129>1 2023-12-10T22:14:52.442663+00:00 AONT syslog 5398 - -  TR069: -1: Receive http message failed: Connection reset by peer 
+[alert] <129>1 2023-12-10T23:22:33.993385+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-10T23:22:33.993532+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-10T23:22:34.836975+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-11T00:42:55.002049+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-11T00:42:55.002193+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-11T00:42:55.839942+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-11T02:31:23.941204+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-11T02:31:23.941344+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-11T02:31:24.718746+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-11T03:26:26.869193+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-11T03:26:26.869340+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-11T03:26:27.672539+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-11T04:09:23.828969+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-11T04:09:23.829111+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-11T04:09:24.690678+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-11T05:01:08.035314+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-11T05:01:08.035458+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-11T05:01:08.776590+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-11T06:24:49.929025+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-11T06:24:49.929167+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-11T06:24:50.688162+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-11T07:09:19.829293+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-11T07:09:19.829438+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-11T07:09:20.602963+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-11T07:53:32.761004+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-11T07:53:32.761146+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-11T07:53:33.561383+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-11T09:00:55.720976+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-11T09:00:55.721117+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-11T09:00:56.527596+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-11T10:20:49.684109+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-11T10:20:49.694667+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-11T10:20:50.526174+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-11T11:42:31.681102+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-11T11:42:31.681247+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-11T11:42:32.897289+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-11T11:51:41.519520+00:00 AONT syslog 5398 - -  TR069: Authentication failed, last_fail_time=977031, fail attempt=2 
+[alert] <129>1 2023-12-11T12:58:24.340763+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-11T12:58:24.340912+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-11T12:58:25.176615+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-11T14:06:54.340990+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-11T14:06:54.341136+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-11T14:06:55.199797+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-11T15:04:59.351167+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-11T15:04:59.351313+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-11T15:05:00.189307+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-11T16:27:16.361493+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-11T16:27:16.361634+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-11T16:27:17.132073+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-11T17:22:17.280937+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-11T17:22:17.281078+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-11T17:22:18.140529+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-11T18:14:00.311679+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-11T18:14:00.311826+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-11T18:14:01.140649+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-12T04:15:34.994865+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-12T04:15:34.995291+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-12T04:15:35.876120+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-12T11:38:56.915056+00:00 AONT syslog 5398 - -  TR069: Authentication failed, last_fail_time=1062664, fail attempt=2 
+[alert] <129>1 2023-12-12T12:09:08.808535+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-12T12:09:08.808682+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-12T12:09:09.633940+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-12T13:20:04.784605+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-12T13:20:04.784748+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-12T13:20:05.595450+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-12T14:06:29.751039+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-12T14:06:29.751196+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-12T14:06:30.637047+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-12T15:07:29.788494+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-12T15:07:29.788637+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-12T15:07:30.669958+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-12T16:08:06.828333+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-12T16:08:06.828479+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-12T16:08:07.690733+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-12T17:21:43.850203+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-12T17:21:43.850344+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-12T17:21:44.699148+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-12T18:31:10.200791+00:00 AONT syslog 27707 - -  Web: account [AdminGPON] authorization failed 
+[alert] <129>1 2023-12-12T18:33:22.832072+00:00 AONT syslog 5398 - -  TR069: -1: Receive http message failed: Connection reset by peer 
+[alert] <129>1 2023-12-12T20:48:16.895439+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-12T20:48:16.895582+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-12T20:48:17.878985+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-12T21:44:53.042068+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-12T21:44:53.042213+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-12T21:44:53.904822+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-12T22:43:51.073080+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-12T22:43:51.073227+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-12T22:43:51.941134+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-12T23:38:46.091142+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-12T23:38:46.091291+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-12T23:38:46.944423+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-13T00:24:54.140132+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-13T00:24:54.140273+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-13T00:24:55.005911+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-13T01:17:40.158505+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-13T01:17:40.158652+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-13T01:17:40.955616+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-13T03:36:30.184756+00:00 AONT syslog 5398 - -  TR069: Authentication failed, last_fail_time=1120118, fail attempt=2 
+[alert] <129>1 2023-12-13T04:55:42.300021+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-13T04:55:42.300167+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-13T04:55:43.231068+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-13T06:08:15.726535+00:00 AONT syslog 5398 - -  TR069: Authentication failed, last_fail_time=1129223, fail attempt=2 
+[alert] <129>1 2023-12-13T06:57:00.920144+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-13T06:57:00.920288+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-13T06:57:01.717553+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-13T07:46:53.870440+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-13T07:46:53.870584+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-13T07:46:54.600084+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-13T09:41:10.704930+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-13T09:41:10.705070+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-13T09:41:11.545621+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-13T10:47:51.710147+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-13T10:47:51.710295+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-13T10:47:52.467465+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-13T11:39:15.620398+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-13T11:39:15.620543+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-13T11:39:16.439033+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-13T13:01:56.595576+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-13T13:01:56.595719+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-13T13:01:57.430609+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-13T14:04:51.624368+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-13T14:04:51.624506+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-13T14:04:52.471211+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-13T14:24:47.110446+00:00 AONT syslog 5398 - -  TR069: -1: Receive http message failed: Connection reset by peer 
+[alert] <129>1 2023-12-13T14:24:53.223984+00:00 AONT syslog 5398 - -  TR069: -1: Receive http message failed: Connection reset by peer 
+[alert] <129>1 2023-12-13T14:24:59.691136+00:00 AONT syslog 5398 - -  TR069: Authentication failed, last_fail_time=1159027, fail attempt=2 
+[alert] <129>1 2023-12-13T14:25:04.989825+00:00 AONT syslog 5398 - -  TR069: -1: Receive http message failed: Connection reset by peer 
+[alert] <129>1 2023-12-13T14:53:10.131550+00:00 AONT syslog 5398 - -  TR069: -1: Receive http message failed: Connection reset by peer 
+[alert] <129>1 2023-12-13T16:25:00.098243+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-13T16:25:00.098391+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-13T16:25:00.909952+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-13T17:38:15.080122+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-13T17:38:15.080272+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-13T17:38:15.907233+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-13T19:35:43.100058+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-13T19:35:43.100200+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-13T19:35:43.944752+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-13T20:37:40.100138+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-13T20:37:40.101318+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-13T20:37:40.906926+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-13T22:02:29.051515+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-13T22:02:29.051658+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-13T22:02:29.875463+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-13T23:10:05.420816+00:00 AONT syslog 5398 - -  TR069: -1: Receive http message failed: Connection reset by peer 
+[alert] <129>1 2023-12-13T23:10:11.640493+00:00 AONT syslog 5398 - -  TR069: -1: Receive http message failed: Connection reset by peer 
+[alert] <129>1 2023-12-13T23:10:18.046083+00:00 AONT syslog 5398 - -  TR069: Authentication failed, last_fail_time=1190546, fail attempt=2 
+[alert] <129>1 2023-12-13T23:10:23.094093+00:00 AONT syslog 5398 - -  TR069: -1: Receive http message failed: Connection reset by peer 
+[alert] <129>1 2023-12-14T00:51:50.642444+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-14T00:51:50.642583+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-14T00:51:51.489602+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-14T02:01:37.640170+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-14T02:01:37.640321+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-14T02:01:38.529855+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-14T02:57:40.690483+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-14T02:57:40.690629+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-14T02:57:41.497155+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-14T03:56:04.654541+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-14T03:56:04.654725+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-14T03:56:05.447132+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-14T05:06:49.598490+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-14T05:06:49.598637+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-14T05:06:50.512720+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-14T06:04:18.661056+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-14T06:04:18.661204+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-14T06:04:19.457836+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-14T06:06:24.055673+00:00 AONT syslog 5398 - -  TR069: Authentication failed, last_fail_time=1215512, fail attempt=2 
+[alert] <129>1 2023-12-14T06:54:21.719973+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-14T06:54:21.720115+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-14T06:54:22.700458+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-14T08:42:42.862318+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-14T08:42:42.862453+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-14T08:42:43.906241+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-14T10:02:05.070138+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-14T10:02:05.070282+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-14T10:02:05.893291+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-14T11:46:25.102663+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-14T11:46:25.102801+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-14T11:46:25.933729+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-14T12:48:07.090251+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-14T12:48:07.090391+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-14T12:48:07.871229+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-14T13:44:57.030170+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-14T13:44:57.030312+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-14T13:44:57.844410+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-14T14:22:54.677294+00:00 AONT syslog 5398 - -  TR069: -1: Receive http message failed: Connection reset by peer 
+[alert] <129>1 2023-12-14T14:23:00.782724+00:00 AONT syslog 5398 - -  TR069: -1: Receive http message failed: Connection reset by peer 
+[alert] <129>1 2023-12-14T14:23:07.096321+00:00 AONT syslog 5398 - -  TR069: Authentication failed, last_fail_time=1245315, fail attempt=2 
+[alert] <129>1 2023-12-14T14:23:12.309002+00:00 AONT syslog 5398 - -  TR069: -1: Receive http message failed: Connection reset by peer 
+[alert] <129>1 2023-12-14T15:36:53.483303+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-14T15:36:53.485230+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-14T15:36:54.342875+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-14T16:38:11.490417+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-14T16:38:11.490565+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-14T16:38:12.401414+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-14T17:03:00.132947+00:00 AONT syslog 5398 - -  TR069: Authentication failed, last_fail_time=1254908, fail attempt=2 
+[alert] <129>1 2023-12-14T17:50:41.100025+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-14T17:50:41.100174+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-14T17:50:41.940220+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-14T17:52:52.211790+00:00 AONT syslog 5398 - -  TR069: -1: Receive http message failed: Connection reset by peer 
+[alert] <129>1 2023-12-14T17:52:58.302839+00:00 AONT syslog 5398 - -  TR069: -1: Receive http message failed: Connection reset by peer 
+[alert] <129>1 2023-12-14T17:53:04.637703+00:00 AONT syslog 5398 - -  TR069: Authentication failed, last_fail_time=1257912, fail attempt=2 
+[alert] <129>1 2023-12-14T17:53:09.842265+00:00 AONT syslog 5398 - -  TR069: -1: Receive http message failed: Connection reset by peer 
+[alert] <129>1 2023-12-14T19:15:24.100222+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-14T19:15:24.100363+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-14T19:15:24.927232+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-14T20:23:59.346055+00:00 AONT syslog 5398 - -  TR069: Authentication failed, last_fail_time=1266967, fail attempt=2 
+[alert] <129>1 2023-12-14T20:23:59.757771+00:00 AONT syslog 5398 - -  TR069: Authentication failed, last_fail_time=1266967, fail attempt=3 
+[alert] <129>1 2023-12-14T20:24:00.152259+00:00 AONT syslog 5398 - -  TR069: Authentication failed, last_fail_time=1266968, fail attempt=4 
+[alert] <129>1 2023-12-14T21:29:49.101518+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-14T21:29:49.101672+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-14T21:29:49.908381+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-14T22:38:42.075287+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-14T22:38:42.075407+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-14T22:38:42.919896+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-15T00:44:51.734467+00:00 AONT syslog 5398 - -  TR069: -1: Receive http message failed: Connection reset by peer 
+[alert] <129>1 2023-12-15T00:44:57.906762+00:00 AONT syslog 5398 - -  TR069: -1: Receive http message failed: Connection reset by peer 
+[alert] <129>1 2023-12-15T00:45:04.314404+00:00 AONT syslog 5398 - -  TR069: Authentication failed, last_fail_time=1282632, fail attempt=2 
+[alert] <129>1 2023-12-15T00:45:09.952566+00:00 AONT syslog 5398 - -  TR069: -1: Receive http message failed: Connection reset by peer 
+[alert] <129>1 2023-12-15T01:46:59.250196+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-15T01:46:59.250342+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-15T01:47:00.181669+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-15T02:58:00.340231+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-15T02:58:00.340375+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-15T02:58:01.258936+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-15T03:44:05.440317+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-15T03:44:05.440462+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-15T03:44:06.254519+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-15T05:16:51.173323+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-15T05:16:51.173459+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-15T05:16:51.982757+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-15T06:40:45.131318+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-15T06:40:45.131464+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-15T06:40:45.939054+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-15T07:35:22.082939+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-15T07:35:22.083078+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-15T07:35:22.936605+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-15T08:29:14.081672+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-15T08:29:14.081816+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-15T08:29:14.924480+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-15T09:27:21.103183+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-15T09:27:21.103328+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-15T09:27:21.913886+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-15T11:08:16.149777+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-15T11:08:16.149920+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-15T11:08:16.994352+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-15T12:13:58.165434+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-15T12:13:58.166923+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-15T12:13:59.087906+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-15T14:40:05.174587+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-15T14:40:05.174838+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-15T14:40:06.203829+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-15T16:01:11.351504+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-15T16:01:11.351651+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-15T16:01:12.205035+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-15T16:54:22.225729+00:00 AONT syslog 5398 - -  TR069: -1: Receive http message failed: Connection reset by peer 
+[alert] <129>1 2023-12-15T16:54:28.249962+00:00 AONT syslog 5398 - -  TR069: -1: Receive http message failed: Connection reset by peer 
+[alert] <129>1 2023-12-15T16:54:34.333296+00:00 AONT syslog 5398 - -  TR069: Authentication failed, last_fail_time=1340800, fail attempt=2 
+[alert] <129>1 2023-12-15T16:54:39.440293+00:00 AONT syslog 5398 - -  TR069: -1: Receive http message failed: Connection reset by peer 
+[alert] <129>1 2023-12-15T17:57:24.582416+00:00 AONT syslog 5398 - -  TR069: -1: Receive http message failed: Connection reset by peer 
+[alert] <129>1 2023-12-15T18:59:59.921393+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-15T18:59:59.921537+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-15T19:00:00.806042+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-15T20:00:16.965880+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-15T20:00:16.966019+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-15T20:00:17.816301+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-15T21:15:14.969889+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-15T21:15:14.970032+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-15T21:15:15.772970+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-15T22:19:31.929526+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-15T22:19:31.929671+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-15T22:19:32.749290+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-15T23:21:26.909523+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-15T23:21:26.909665+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-15T23:21:27.801032+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-16T00:37:08.961782+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-16T00:37:08.961930+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-16T00:37:09.866640+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-16T01:41:39.011648+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-16T01:41:39.011792+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-16T01:41:39.830188+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-16T02:54:57.992378+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-16T02:54:57.992513+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-16T02:54:58.809606+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-16T04:08:14.979691+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-16T04:08:14.979836+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-16T04:08:15.871308+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-16T05:01:32.031487+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-16T05:01:32.031628+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-16T05:01:32.831688+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-16T06:05:12.989555+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-16T06:05:12.989701+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-16T06:05:13.839163+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-16T08:27:04.653741+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-16T08:27:04.653890+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-16T08:27:05.411870+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-16T09:49:36.592487+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-16T09:49:36.592615+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-16T09:49:37.471787+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-16T11:09:12.631886+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-16T11:09:12.632037+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-16T11:09:13.430527+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-16T12:00:34.580672+00:00 AONT syslog 5398 - -  TR069: Authentication failed, last_fail_time=1409560, fail attempt=2 
+[alert] <129>1 2023-12-16T12:59:58.321588+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-16T12:59:58.321738+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-16T12:59:59.164207+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-16T13:59:59.351364+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-16T13:59:59.351511+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-16T14:00:00.173791+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 
+[alert] <129>1 2023-12-16T14:58:33.347034+00:00 AONT syslog 5398 - -  TR069: ACS redundancy Feature enabled ===> 0 
+[alert] <129>1 2023-12-16T14:58:33.347407+00:00 AONT syslog 5398 - -   
+[alert] <129>1 2023-12-16T14:58:34.127318+00:00 AONT syslog 5398 - -  TR069: Unsupported response code(403), end the session 

@@ -23,6 +23,8 @@ Thumbs.db        # Windows system file
 
 # Ignore log files
 *.log
+sample_log.txt
+
 
 # Ignore compiled binaries or executables
 *.exe
