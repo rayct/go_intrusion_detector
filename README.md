@@ -78,7 +78,7 @@ The program consists of the following key functionalities:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache-2.0 License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
@@ -88,6 +88,6 @@ This program is a simple illustration of log file analysis for intrusion detecti
 
 **Documentation By:** Raymond C. TURNER
 
-**Revision:** Saturday 16th December 2023
+**Revision:** Sunday 17th December 2023
 
 codestak.io
